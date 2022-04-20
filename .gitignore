@@ -72,3 +72,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+AssetvillePaper/Intermediate/CachedAssetRegistry.bin
+AssetvillePaper/Saved/AutoScreenshot.png
+AssetvillePaper/Saved/Config/CrashReportClient/UE4CC-Windows-40F25B044161CD7270042AA7E5142F7C/CrashReportClient.ini
+AssetvillePaper/Saved/Logs/AssetvillePaper-backup-2022.04.15-10.16.38.log
+AssetvillePaper/Saved/Logs/AssetvillePaper-backup-2022.04.15-10.16.38.log
+AssetvillePaper/Saved/Logs/AssetvillePaper-backup-2022.04.20-04.54.07.log
+AssetvillePaper/Saved/Logs/AssetvillePaper.log
